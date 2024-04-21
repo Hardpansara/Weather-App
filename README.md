@@ -38,8 +38,8 @@ Once the app is installed and running, you can:
 
 - Flutter
 - Dart
-- OpenWeatherMap API (or any other API used for weather data)
-
+- OpenWeatherMap API
+  
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
