@@ -15,7 +15,7 @@ Welcome to the Weather App repository! This Flutter-based weather app provides r
 2. Open the project in your preferred Flutter development environment.
 3. Run the app on your preferred device or emulator.
 
-Alternatively, you can download the ready-to-install APK from the [releases page]((https://github.com/hardpatel10/Weather-App/releases/tag/V1.0.0)) and directly install it on your Android device.
+Alternatively, you can download the ready-to-install APK from the [releases page](https://github.com/hardpatel10/Weather-App/releases/tag/V1.0.0) and directly install it on your Android device.
 
 ## Usage
 
