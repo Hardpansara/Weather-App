@@ -28,9 +28,10 @@ Once the app is installed and running, you can:
 
 ## Screenshots
 
-![Screenshot_20240421_120314](https://github.com/Hardpansara/Weather-App/assets/150512388/99a09243-fda9-4cb6-8dac-16c6d5e5ae69)
-![Screenshot_20240421_120304](https://github.com/Hardpansara/Weather-App/assets/150512388/644aee76-9312-49fd-99a6-2d9761f80693)
-![Screenshot_20240421_120329](https://github.com/Hardpansara/Weather-App/assets/150512388/16dcffc5-4137-413a-b153-5cd9a744d106)
+<img src="https://github.com/Hardpansara/Weather-App/assets/150512388/99a09243-fda9-4cb6-8dac-16c6d5e5ae69" width="300">
+<img src="https://github.com/Hardpansara/Weather-App/assets/150512388/644aee76-9312-49fd-99a6-2d9761f80693" width="300">
+<img src="https://github.com/Hardpansara/Weather-App/assets/150512388/16dcffc5-4137-413a-b153-5cd9a744d106" width="300">
+
 
 
 ## Technologies Used
