@@ -11,9 +11,20 @@ Welcome to the Weather App repository! This Flutter-based weather app provides r
 
 ## Installation
 
-1. Clone this repository.
-2. Open the project in your preferred Flutter development environment.
-3. Run the app on your preferred device or emulator.
+1. Clone the repository:
+```bash
+git clone https://github.com/Hardpansara/Weather-App.git
+```
+
+2. Install dependencies:
+```bash
+flutter pub get
+```
+
+3. Run the app:
+```bash
+flutter run
+```
 
 Alternatively, you can download the ready-to-install APK from the [releases page](https://github.com/hardpatel10/Weather-App/releases/tag/V1.0.0) and directly install it on your Android device.
 
